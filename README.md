@@ -3,16 +3,10 @@
 ## Overview
 This repository contains the implementation and results of our project for the Artificial Intelligence course at [Insert Institution Name]. The project explores reinforcement learning (RL) strategies for solving challenges in simple and complex environments using the **Arcade Learning Environment (ALE)** and **PettingZoo**. We evaluate techniques ranging from basic **Deep Q-Networks (DQN)** to advanced methods like **Proximal Policy Optimization (PPO)**, alongside **Learning by Imitation**.
 
-### Authors
-- **Alex Roldan**
-- **Alex Sanchez** 
-
-### Project Date
-December 10, 2024
 
 ---
 
-## Contents
+## Contents of the report
 - **Introduction**  
   Overview of objectives, environments, and techniques.
   
@@ -95,6 +89,11 @@ December 10, 2024
   https://www.pettingzoo.ml/
 - **OpenAI Gym**  
   https://gym.openai.com/
+
+---
+## Authors
+- **Alex Roldan**
+- **Alex Sanchez** 
 
 ---
 
