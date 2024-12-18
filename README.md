@@ -52,12 +52,12 @@ December 10, 2024
    ```bash
    git clone https://github.com/[YourGithubHandle]/[YourRepoName].git
    cd [YourRepoName]
-  ```
+   ```
 
-2.Install required libraries
-```bash
-pip install -r requirements.txt
-```
+2. Install required libraries
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 ### Run the code
 
