@@ -1,7 +1,7 @@
 # Learning to Win: RL Strategies for Simple and Complex Games
 # IMAGEN O VIDEO O GIF DE UNO DE LOS ENVIRONMENTS
 ## Overview
-This repository contains the implementation and results of our project for the Artificial Intelligence course at [Insert Institution Name], under the guidance of Professor Jordi Casas. The project explores reinforcement learning (RL) strategies for solving challenges in simple and complex environments using the **Arcade Learning Environment (ALE)** and **PettingZoo**. We evaluate techniques ranging from basic **Deep Q-Networks (DQN)** to advanced methods like **Proximal Policy Optimization (PPO)**, alongside **Learning by Imitation**.
+This repository contains the implementation and results of our project for the Artificial Intelligence course at [Insert Institution Name]. The project explores reinforcement learning (RL) strategies for solving challenges in simple and complex environments using the **Arcade Learning Environment (ALE)** and **PettingZoo**. We evaluate techniques ranging from basic **Deep Q-Networks (DQN)** to advanced methods like **Proximal Policy Optimization (PPO)**, alongside **Learning by Imitation**.
 
 ### Authors
 - **Alex Roldan**
